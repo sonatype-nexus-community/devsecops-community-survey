@@ -27,15 +27,25 @@ If you need help creating a Pull Request, you can reference Github's documentati
 #### * 1. What is your industry?
 
 ![](img/singleselect.png)Banking and Financial Services
+
 ![](img/singleselect.png)Technology 
+
 ![](img/singleselect.png)Telecommunications 
+
 ![](img/singleselect.png)Manufacturing 
-![](img/singleselect.png)Consulting Services 		
+
+![](img/singleselect.png)Consulting Services 	
+
 ![](img/singleselect.png)Government
+
 ![](img/singleselect.png)Media and Entertainment Healthcare
+
 ![](img/singleselect.png)Retail
+
 ![](img/singleselect.png)Education
+
 ![](img/singleselect.png)Insurance
+
 ![](img/singleselect.png)Other (please specify)
 
 
@@ -48,7 +58,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 | Operations | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) |
 
 
-#### * 3. What title best matches your role?**
+#### * 3. What title best matches your role?
 
 ![](img/singleselect.png)Developer (Sr., Jr., Lead)
 
