@@ -22,29 +22,24 @@ If you need help creating a Pull Request, you can reference Github's documentati
 
 *All answers are kept completely anonymous and private, we only share aggregated statistics. As a survey participant, you will receive a copy of the results once compiled into our final survey document (email address required).*
 
-
-
 \* Identifies required questions
 
+####* 1. What is your industry?
+
+![](img/singleselect.png)Banking and Financial Services
+![](img/singleselect.png)Technology 
+![](img/singleselect.png)Telecommunications 
+![](img/singleselect.png)Manufacturing 
+![](img/singleselect.png)Consulting Services 		
+![](img/singleselect.png)Government
+![](img/singleselect.png)Media and Entertainment Healthcare
+![](img/singleselect.png)Retail
+![](img/singleselect.png)Education
+![](img/singleselect.png)Insurance
+![](img/singleselect.png)Other (please specify)
 
 
-**\* 1. What is your industry?**
-
-​	![](img/singleselect.png)Banking and Financial Services
-​	![](img/singleselect.png)Technology 
-​	![](img/singleselect.png)Telecommunications 
-​	![](img/singleselect.png)Manufacturing 
-​	![](img/singleselect.png)Consulting Services 		
-​	![](img/singleselect.png)Government
-​	![](img/singleselect.png)Media and Entertainment Healthcare
-​	![](img/singleselect.png)Retail
-​	![](img/singleselect.png)Education
-​	![](img/singleselect.png)Insurance
-​	![](img/singleselect.png)Other (please specify)
-
-
-
-**\* 2. How many of each role are in your organization? (It's okay to guess)**
+####* 2. How many of each role are in your organization? (It's okay to guess)
 
 |            | <10                       | <25                       | <50                       | <100                      | <500                      | <1000                     | <5000                     | >5000                     |
 | ---------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
@@ -53,8 +48,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 | Operations | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) |
 
 
-
-**\* 3. What title best matches your role?**
+#### * 3. What title best matches your role?**
 
 ![](img/singleselect.png)Developer (Sr., Jr., Lead)
 
@@ -83,8 +77,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)Other (please specify)
 
 
-
-**\* 4. What is your level of seniority?**
+#### * 4. What is your level of seniority?**
 
 ![](img/singleselect.png)Individual contributor (e.g., Junior, Senior)
 
@@ -93,8 +86,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)Executive (e.g., VP, CIO, CISO, CTO)
 
 
-
-**\* 5. What type of applications do you or your team generally work on?**
+#### * 5. What type of applications do you or your team generally work on?**
 
 ![](img/multiselect.png)Web 
 
@@ -113,8 +105,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/multiselect.png)Desktop
 
 
-
-**\* 6. What is your team's main motivation to implement security controls?**
+#### * 6. What is your team's main motivation to implement security controls?**
 
 ![](img/singleselect.png)Customer requirements
 
@@ -129,10 +120,9 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)Other (please specify)
 
 
-
 ### Culture
 
-**\* 7. Tell us about your job satisfaction**
+#### * 7. Tell us about your job satisfaction
 
 |                                                             | Strongly Agree            | Agree                     | Neutral                   | Disagree                  | Strongly Disagree         |
 | ----------------------------------------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
@@ -143,8 +133,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 | I can complete the work I set out to achieve                | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) |
 
 
-
-**\* 8. What application security training is available to you?**
+#### * 8. What application security training is available to you?
 
 ![](img/singleselect.png)E-learning (self-paced)
 
@@ -157,8 +146,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)What training?
 
 
-
-**\* 9. Who causes the most friction on your team?**
+#### * 9. Who causes the most friction on your team?
 
 ![](img/singleselect.png)Developers
 
@@ -179,8 +167,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)Other (please specify)
 
 
-
-**\* 10. How would you characterize developer interest in application security?**
+#### * 10. How would you characterize developer interest in application security?
 
 ![](img/singleselect.png)It's a top concern for our developers, they spend a lot of time here
 
@@ -191,16 +178,14 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)It's not something our developers are focused on
 
 
-
-**11. Who is your favorite mercenary?**
+#### 11. Who is your favorite mercenary?
 
 ![](img/singleselect.png)Deadpool
 
 
-
 ### Development
 
-**\*  12. Which development practices does your team use?**
+#### *  12. Which development practices does your team use?
 
 ![](img/multiselect.png)DevOps 
 
@@ -217,8 +202,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/multiselect.png)Lean 
 
 
-
-**\*  13. How mature is your team's adoption of the selected development practices?**
+#### *  13. How mature is your team's adoption of the selected development practices?
 
 ![](img/singleselect.png)Very mature
 
@@ -231,8 +215,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)Not sure
 
 
-
-**\*  14. How frequently do you or your team deploy to production?**
+#### *  14. How frequently do you or your team deploy to production?
 
 ![](img/singleselect.png)With every change
 
@@ -251,8 +234,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)Yearly
 
 
-
-**\* 15. How are you informed of application security issues?**
+#### * 15. How are you informed of application security issues?
 
 ![](img/multiselect.png)Tooling
 
@@ -273,14 +255,11 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/multiselect.png)Media
 
 
-
-**16. What's your favorite pizza topping? (Please Specify)**
-
-
+#### 16. What's your favorite pizza topping? (Please Specify)
 
 ### Tooling
 
-**\* 17. What security tools do you or your team use?**
+#### * 17. What security tools do you or your team use?
 
 |                                                           | We Use Frequently, Critical | We Use Sometimes, Not Critical | Don't Use                 |
 | --------------------------------------------------------- | --------------------------- | ------------------------------ | ------------------------- |
@@ -296,8 +275,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 | WAF - Web Application Firewall                            | ![](img/singleselect.png)   | ![](img/singleselect.png)      | ![](img/singleselect.png) |
 
 
-
-**\* 18. Are security tools properly integrated within your team's development pipeline?**
+#### * 18. Are security tools properly integrated within your team's development pipeline?
 
 |                                                           | Yes                       | No                        | N/A                       |
 | --------------------------------------------------------- | ------------------------- | ------------------------- | ------------------------- |
@@ -313,8 +291,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 | WAF - Web Application Firewall                            | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) |
 
 
-
-**\* 19. Which description best fits the integration of your security tools with the DevOps pipeline?**
+#### * 19. Which description best fits the integration of your security tools with the DevOps pipeline?
 
 ![](img/singleselect.png)Not integrated, it’s a completely separate process
 
@@ -325,8 +302,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)Fully integrated and automated
 
 
-
-**\* 20. When does your team perform manual or automated security analysis?**
+#### * 20. When does your team perform manual or automated security analysis?
 
 |                             | Manual                    | Autonmated                | Do not perform            |
 | --------------------------- | ------------------------- | ------------------------- | ------------------------- |
@@ -340,10 +316,9 @@ If you need help creating a Pull Request, you can reference Github's documentati
 | All of the above            | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) |
 
 
-
 ### Policy, Governance, and Compliance
 
-**\*  21. Are governance and compliance automated in your team's development process?**
+#### *  21. Are governance and compliance automated in your team's development process?
 
 ![](img/singleselect.png)Yes
 
@@ -352,18 +327,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)Not Sure
 
 
-
-**\*  22. Does your team automate separation of duties?**
-
-![](img/singleselect.png)Yes
-
-![](img/singleselect.png)No
-
-![](img/singleselect.png)Not Sure
-
-
-
-**\*  23. Does your organization have an open source governance policy? (i.e., rules about using good, not bad, components/libraries/binaries)**
+#### *  22. Does your team automate separation of duties?
 
 ![](img/singleselect.png)Yes
 
@@ -372,8 +336,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)Not Sure
 
 
-
-**\*  24. Do you follow the open source governance policy?**
+#### *  23. Does your organization have an open source governance policy? (i.e., rules about using good, not bad, components/libraries/binaries)
 
 ![](img/singleselect.png)Yes
 
@@ -382,8 +345,16 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)Not Sure
 
 
+#### *  24. Do you follow the open source governance policy?
 
-**\*  25. Does your team maintain an inventory of open source components? (e.g., a software bill of materials (SBoM))**
+![](img/singleselect.png)Yes
+
+![](img/singleselect.png)No
+
+![](img/singleselect.png)Not Sure
+
+
+#### *  25. Does your team maintain an inventory of open source components? (e.g., a software bill of materials (SBoM))
 
 ![](img/singleselect.png)Yes, for all components including dependencies 
 
@@ -394,20 +365,18 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)Not sure
 
 
-
-**\* 26. Which one?**
+#### * 26. Which one?
 
 ![](img/singleselect.png)Star Wars
 
 ![](img/singleselect.png)Star Trek
 
-![](img/singleselect.png)Who Cares?**
-
+![](img/singleselect.png)Who Cares?
 
 
 ### Challenges
 
-**\* 27. Rate the following challenges with your application security processes**
+#### * 27. Rate the following challenges with your application security processes
 
 |                                                    | Very challenging          | Somewhat challenging      | Not challenging           | N/A                       |
 | -------------------------------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
@@ -420,20 +389,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 | Mobile application testing                         | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) | ![](img/singleselect.png) |
 
 
-
-**\* 28. Has your organization had a breach that can be attributed to a vulnerability in an open source component or dependency in the last 12 months?**
-
-![](img/singleselect.png)Yes, we definitely have
-
-![](img/singleselect.png)We suspect that this was the source of a breach
-
-![](img/singleselect.png)No, we definitely have not
-
-![](img/singleselect.png)Not Sure
-
-
-
-**\* 29. Has your organization had a breach attributed to application development and deployment in the last 12 months?****
+#### * 28. Has your organization had a breach that can be attributed to a vulnerability in an open source component or dependency in the last 12 months?
 
 ![](img/singleselect.png)Yes, we definitely have
 
@@ -443,6 +399,16 @@ If you need help creating a Pull Request, you can reference Github's documentati
 
 ![](img/singleselect.png)Not Sure
 
+
+#### * 29. Has your organization had a breach attributed to application development and deployment in the last 12 months?
+
+![](img/singleselect.png)Yes, we definitely have
+
+![](img/singleselect.png)We suspect that this was the source of a breach
+
+![](img/singleselect.png)No, we definitely have not
+
+![](img/singleselect.png)Not Sure
 
 
 ### One last question...
