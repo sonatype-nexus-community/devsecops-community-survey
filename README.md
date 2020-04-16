@@ -24,7 +24,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 
 \* Identifies required questions
 
-####* 1. What is your industry?
+#### * 1. What is your industry?
 
 ![](img/singleselect.png)Banking and Financial Services
 ![](img/singleselect.png)Technology 
@@ -39,7 +39,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)Other (please specify)
 
 
-####* 2. How many of each role are in your organization? (It's okay to guess)
+#### * 2. How many of each role are in your organization? (It's okay to guess)
 
 |            | <10                       | <25                       | <50                       | <100                      | <500                      | <1000                     | <5000                     | >5000                     |
 | ---------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
