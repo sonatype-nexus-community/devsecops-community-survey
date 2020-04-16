@@ -87,7 +87,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)Other (please specify)
 
 
-#### * 4. What is your level of seniority?**
+#### * 4. What is your level of seniority?
 
 ![](img/singleselect.png)Individual contributor (e.g., Junior, Senior)
 
@@ -96,7 +96,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/singleselect.png)Executive (e.g., VP, CIO, CISO, CTO)
 
 
-#### * 5. What type of applications do you or your team generally work on?**
+#### * 5. What type of applications do you or your team generally work on?
 
 ![](img/multiselect.png)Web 
 
@@ -115,7 +115,7 @@ If you need help creating a Pull Request, you can reference Github's documentati
 ![](img/multiselect.png)Desktop
 
 
-#### * 6. What is your team's main motivation to implement security controls?**
+#### * 6. What is your team's main motivation to implement security controls?
 
 ![](img/singleselect.png)Customer requirements
 
